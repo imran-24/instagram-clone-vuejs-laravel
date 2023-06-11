@@ -14,3 +14,11 @@ npm i --save @fortawesome/free-solid-svg-icons
 npm i --save @fortawesome/free-regular-svg-icons
 npm i --save @fortawesome/free-brands-svg-icons
 npm i --save @fortawesome/vue-fontawesome@latest-3# instagram-clone-vuejs-laravel
+
+
+
+<!-- code snipped -->
+
+
+<!-- binding a class -->
+:class="{'mr-1': iconString === 'Profile'}
